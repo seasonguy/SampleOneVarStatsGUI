@@ -1,4 +1,4 @@
-Hi!
+# One Variable Statistics GUI
 
 It updates automatically
 Gives:
